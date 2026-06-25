@@ -198,7 +198,13 @@ The Trusted Plane (In-VNet Workload Management): Established an RDP session into
 
 |---|---|
 
-| !\[403 Forbidden](./images/10.png) | !\[Secure Success](./images/11.png) |
+!\[403 Forbidden]<p align="center">
+  <img src="images/10.png" alt="Topology" width="800">
+</p>
+!\[Secure Success]
+<p align="center">
+  <img src="images/11.png" alt="Topology" width="800">
+</p>
 
 
 
