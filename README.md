@@ -196,17 +196,16 @@ The Trusted Plane (In-VNet Workload Management): Established an RDP session into
 
 | Public Internet Access (Blocked) | Secure VNet Access via RDP (Success) |
 
-|---|---|
 
-!\[403 Forbidden]<p align="center">
+403 Forbidden
+<p align="center">
   <img src="images/10.png" alt="Topology" width="800">
 </p>
-!\[Secure Success]
+
+Secure Success
 <p align="center">
   <img src="images/11.png" alt="Topology" width="800">
 </p>
-
-
 
 🎯 Core Architectural Takeaways
 
